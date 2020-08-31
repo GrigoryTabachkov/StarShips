@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vw;
+    min-height: 8vh;
+    position: fixed;
+    top: 0;
+    color: #E5E9F0;
+    background-image: radial-gradient(circle farthest-corner at center, #3B4252 0%, #2E3440 100%);
+    /*border: 1px solid #2e3440;*/
+}

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/StarShips/static/css/main.08b592bb.chunk.css",
-    "main.js": "/StarShips/static/js/main.9377b153.chunk.js",
-    "main.js.map": "/StarShips/static/js/main.9377b153.chunk.js.map",
+    "main.js": "/StarShips/static/js/main.d026368e.chunk.js",
+    "main.js.map": "/StarShips/static/js/main.d026368e.chunk.js.map",
     "runtime-main.js": "/StarShips/static/js/runtime-main.22b80a3b.js",
     "runtime-main.js.map": "/StarShips/static/js/runtime-main.22b80a3b.js.map",
     "static/js/2.b5e9993e.chunk.js": "/StarShips/static/js/2.b5e9993e.chunk.js",
     "static/js/2.b5e9993e.chunk.js.map": "/StarShips/static/js/2.b5e9993e.chunk.js.map",
     "index.html": "/StarShips/index.html",
-    "precache-manifest.2f8b3bb05066bb300824f929b52ccaf9.js": "/StarShips/precache-manifest.2f8b3bb05066bb300824f929b52ccaf9.js",
+    "precache-manifest.e311deeb87671876847c335f18aa00c5.js": "/StarShips/precache-manifest.e311deeb87671876847c335f18aa00c5.js",
     "service-worker.js": "/StarShips/service-worker.js",
     "static/css/main.08b592bb.chunk.css.map": "/StarShips/static/css/main.08b592bb.chunk.css.map",
     "static/js/2.b5e9993e.chunk.js.LICENSE.txt": "/StarShips/static/js/2.b5e9993e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.22b80a3b.js",
     "static/js/2.b5e9993e.chunk.js",
     "static/css/main.08b592bb.chunk.css",
-    "static/js/main.9377b153.chunk.js"
+    "static/js/main.d026368e.chunk.js"
   ]
 }
